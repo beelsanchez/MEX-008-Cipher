@@ -1,10 +1,14 @@
-.contenedor {
-background-color: blueviolet;
-height: 400px;
-width: 400px;
-border-top-left-radius: 15px;
-border-top-right-radius: 0;
-border-bottom-right-radius: 15px;
-border-bottom-left-radius: 0;
+.opacity {
+padding-left:40px;
+padding-top:40px;
+text-align:center;
+}
 
+.button {
+    display: block;
+    text-align: center;
+    width: 120px;
+    background: black;
+    padding: 10px;
+    margin: 10px auto;
 }
