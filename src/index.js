@@ -1,3 +1,48 @@
+//Declaro mis variables. Se obtiene el valor de la caja con un evento//
+
+const inputEncode=document-getElementById('txt_cipher');
+const offset=document.getElementById('offset');
+const btncifrar=document.getElementById('botoncifrar');
+const inputDecode=document.getElementById('input_decoder')
+
+//Tambien se puede utilizar keyup//
+//Evento DOM/funcion cipher//
+//Mandar a llamar al boton//
+//ultimo es de offset//
+
+btncifrar.addEventListener('click',(e) => {
+    e.preventDefault();
+
+    inputDecode.value=window.cipher.encode(parseInt(offset.value),inputEncode,value)
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //variable para mostrar segunda sección//
 const showCipherSection = document.getElementById('cipher-caesar');
 //variable para ocultar la primera sección//
