@@ -27,31 +27,34 @@
     }
     .opacity{
     background-color:rgb(216, 191, 191);
-    opacity:0.7;/* Opacidad 90% */
-    width: 550px;
-    height: 200px;
+    opacity:0.8;/* Opacidad 90% */
+    width: 600px;
+    height: 310px;
 
     }
     </style>
     </head>
-<!--Cuadro de texto para que el usuario coloque su nombre-->
-  
+<!--Cuadro de texto para que el usuario coloque su nombre--> 
 <body>
-      
-      <div class="opacity">Escribe tu nombre de Usuario
-         
+      <!--codigo para el recuadro de opacidad--> 
+      <div class="opacity">
+        <p class="Usuario_tx">Escribe tu nombre de Usuario </p>
         <input type="text" id="ejemplo"  name="ejemplo"  placeholder="Usuario"  size="15" maxlength="30">
         
         <section id="cipher-caesar" class="hide">
-          <button onclick="location.href=''">Entrar</button>  
-          Nota: Si no quieres dar tu nombre, inventa cualquier otro.
-          Ejemplo:"Luna03".
-      </div>
 
-
+<!--Codigo de enlace al entrar a la pag-->
 <!--Boton para entrar-->
+       <a href="index1.html"><button type="boton" id="botonEntrar">Entrar</button></a> 
+
+        <p class="nota">Nota: Si no quieres dar tu nombre, inventa cualquier otro.
+          Ejemplo:"Luna03".</p>
+      </div>
 
       </body>
 </html>
 
     
+
+
+<!--Revisar como funciona Show y Hide para no ocupar tantos HTML-->
