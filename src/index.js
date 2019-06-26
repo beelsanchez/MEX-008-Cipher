@@ -1,3 +1,19 @@
+//Primer boton//
+const buttonEntrar = document.getElementById ('buttonEntrar');
+//Botones de la primer imagen//
+const buttonInstrucciones = document.getElementById('buttonInstrucciones');
+const buttonRegresar = document.getElementById ('buttonRegresar');
+const buttonMenuPrincipal = getElementById ('buttonMenuPrincipal');
+//Botones de la segunda imagen//
+const
+
+
+
+
+
+
+
+
 //Declaro mis variables. Se obtiene el valor de la caja con un evento//
 
 const inputEncode=document-getElementById('txt_cipher');
