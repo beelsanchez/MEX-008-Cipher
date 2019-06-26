@@ -1,10 +1,20 @@
 //Primer boton//
 const buttonEntrar = document.getElementById ('buttonEntrar');
-//Botones de la primer imagen//
+//Botones de la imagen principal//
 const buttonInstrucciones = document.getElementById('buttonInstrucciones');
 const buttonRegresar = document.getElementById ('buttonRegresar');
 const buttonMenuPrincipal = getElementById ('buttonMenuPrincipal');
+//Botones de la primer imagen//
+const 
+const butt
+const 
 //Botones de la segunda imagen//
+const
+const
+const
+//Botones de la tercer imagen//
+const
+const
 const
 
 
