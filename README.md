@@ -35,10 +35,17 @@ En Android:
 
 ## ENTREVISTAS
 
-Se realizo un formulario para saber que tan útil seria realizar una aplicación que 
+Se realizo un formulario para saber que tan útil seria realizar una aplicación que a
 
 
 ## INSIGHTS
 
+#¿COMÓ FUNCIONA?
 
+La aplicación funciona de forma anonima, se utilizo como disfraz el nombre de un recetario, de esta forma personas ajenas al usuario no podran acceder, ya que nuestro objetivo es mantener esa informacion en anonimato y que el usuario se sienta con la confianza de que la plataforma es segura.
+Para entrar a la aplicación se le pide un "nickname", así se sentira segura al no poner su nombre o entrar con alguna aplicación que nos de referencias de ello.
+Dentro del menu se encuentran diferentes opciones, aparentemente aparecera una breve descripción de las recetas, sin embargo al dar click en cada opción, les mostrara información sobre como podemos ayudarlas.
+
+Al dar click en la pantalla principal aparecen las instrucciones de como se utiliza la aplicación.
+En los botones siguientes aparecen imagenes en cada uno, de esta forma se darán cuenta del momento en que estan siendo violentadas. En el ultimo botón nos muestra la parte del cifrado, donde el usuario podra enviar y recibir mensajes 
 
